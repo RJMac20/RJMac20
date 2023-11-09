@@ -7,7 +7,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Part 1 Creating Lab](youtube url)
 
 <h2> 🤳 Connect with me:</h2>
 
