@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Virtual Home Lab (VirtualBox)</b>
-  - [Virutal Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Virutal Home Lab](https://github.com/RJMac20/VirtualHomeLab/tree/main)
 
 <h2>📺 YouTube Videos</h2>
 
