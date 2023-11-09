@@ -7,9 +7,8 @@
 
 <h2>📃 Certifications:</h2>
 
-- <b>CompTIA Security+</b>
-  - [Sec+](https://www.credly.com/badges/56dd9f62-8162-44b7-a9e4-420957b51933))
-
+- <b>CompTIA</b>
+  - [Security+](https://www.credly.com/badges/56dd9f62-8162-44b7-a9e4-420957b51933)
 
 <h2>📺 YouTube Videos</h2>
 
