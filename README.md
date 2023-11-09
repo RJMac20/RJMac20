@@ -2,8 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Virtual Home Lab (VirtualBox)</b>
+- <b>Virtual Home Lab</b>
   - [Virutal Home Lab](https://github.com/RJMac20/VirtualHomeLab/tree/main)
+
+<h2>📃 Certifications:</h2>
+
+- <b>CompTIA Security+</b>
+  - [Sec+](https://www.credly.com/badges/56dd9f62-8162-44b7-a9e4-420957b51933))
+
 
 <h2>📺 YouTube Videos</h2>
 
